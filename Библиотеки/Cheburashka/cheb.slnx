@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="cheb/cheb.vcxproj" Id="6813b636-e1da-4cd7-9562-467a60f7f98f" />
-</Solution>
